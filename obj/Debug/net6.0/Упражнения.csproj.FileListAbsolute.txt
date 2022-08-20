@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.AssemblyInfo.cs
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Упражнения\bin\Debug\net6.0\Упражнения.exe
+C:\Users\user1\Desktop\Упражнения\bin\Debug\net6.0\Упражнения.deps.json
+C:\Users\user1\Desktop\Упражнения\bin\Debug\net6.0\Упражнения.runtimeconfig.json
+C:\Users\user1\Desktop\Упражнения\bin\Debug\net6.0\Упражнения.dll
+C:\Users\user1\Desktop\Упражнения\bin\Debug\net6.0\Упражнения.pdb
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.dll
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\refint\Упражнения.dll
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.pdb
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\Упражнения.genruntimeconfig.cache
+C:\Users\user1\Desktop\Упражнения\obj\Debug\net6.0\ref\Упражнения.dll
